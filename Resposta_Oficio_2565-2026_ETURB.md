@@ -51,7 +51,7 @@ Os dados reais de monitoramento corroboram esse cenário de segurança. As medi�
 
 No mesmo sentido, o afluente mensal à lagoa (geração de percolado somada à contribuição pluviométrica direta) apresenta acentuada redução: de 2.066 m³ em fevereiro de 2026 — pico do último período chuvoso, com 497 mm de precipitação — para 666 m³ em junho de 2026, o que corresponde a médias diárias de aproximadamente 74 m³/dia e 22 m³/dia, respectivamente. Com a entrada em operação da segunda lagoa, a capacidade livre de armazenamento será de **aproximadamente 15.700 m³ — mais que o dobro de todo o afluente registrado entre janeiro e maio de 2026 (7.284 m³), ainda que se desconsiderasse integralmente o efeito da evaporação**.
 
-Tais dados convergem com o estudo técnico encaminhado com o Ofício nº 014/2026, segundo o qual o volume máximo de chorume projetado até maio de 2027, em cenário conservador, é da ordem de **10.694 m³** — inferior, inclusive, à capacidade individual de cada uma das lagoas, e equivalente a cerca de 40% (quarenta por cento) da capacidade total instalada. A síntese dos dados operacionais de monitoramento integra o **Anexo II**.
+Tais dados convergem com o estudo técnico encaminhado com o Ofício nº 014/2026, segundo o qual o volume máximo de chorume projetado até maio de 2027, em cenário conservador, é da ordem de **10.694 m³** — inferior, inclusive, à capacidade individual de cada uma das lagoas, e equivalente a cerca de 40% (quarenta por cento) da capacidade total instalada. A síntese dos dados operacionais de monitoramento integra o **Anexo II** (Tabelas 1 e 2, Gráficos 1 a 4 e Figura 1).
 
 Cumpre observar, com o devido respeito e sem embargo das relevantes competências fiscalizatórias dessa Autarquia no plano contratual, que a avaliação acerca da existência de risco ambiental e da suficiência das medidas de gerenciamento de percolado insere-se na esfera de competência do órgão ambiental licenciador (SEMARH/PI), que acompanha regularmente o empreendimento e suas condicionantes e que, até o presente momento, não formulou qualquer apontamento de risco ou objeção às medidas implementadas. No plano contratual, registre-se que a implantação da solução definitiva de tratamento encontra previsão no Projeto Básico vinculado ao Credenciamento, cujas diretrizes e etapas vêm sendo fielmente observadas por esta empresa, conforme cronograma ora apresentado.
 
@@ -89,7 +89,7 @@ b) o **acolhimento das informações prestadas** quanto às tratativas com a emp
 
 Reafirmando o compromisso desta empresa com a adequada execução contratual, com a segurança ambiental do empreendimento e com a plena transparência perante essa fiscalização, colocamo-nos à inteira disposição para reunião técnica e para vistoria às estruturas mencionadas.
 
-**Anexos:** I – Cronograma físico revisado de implantação da ETE; II – Síntese dos dados operacionais de monitoramento da lagoa de percolado.
+**Anexos:** I – Cronograma físico revisado de implantação da ETE; II – Síntese dos dados operacionais de monitoramento da lagoa de percolado (tabelas, gráficos e registro aerofotogramétrico).
 
 Atenciosamente,
 
@@ -145,3 +145,23 @@ Cota máxima registrada no último período chuvoso: 173,56 m, em 30/04/2026 —
 | junho/2026 | 26,2 | 666,0 |
 
 Fonte: planilhas de monitoramento operacional da REVITA (acompanhamento diário de geração de chorume e medições topográficas de cota/volume da lagoa), que permanecem à disposição dessa fiscalização.
+
+**Gráfico 1 – Estoque de percolado: balanço teórico sem evaporação × volume efetivamente medido (topografia/drone), confrontados com as capacidades de armazenamento**
+
+![Gráfico 1](graficos/grafico1_balanco_medicoes.png)
+
+**Gráfico 2 – Evolução da cota do nível da lagoa em operação (leituras topográficas semanais, fev–jul/2026)**
+
+![Gráfico 2](graficos/grafico2_cota_nivel.png)
+
+**Gráfico 3 – Afluente total à lagoa e precipitação registrada no aterro em 2026**
+
+![Gráfico 3](graficos/grafico3_afluente_chuva.png)
+
+**Gráfico 4 – Histórico climatológico do município de Altos/PI (reapresentação — Ofício nº 014/2026)**
+
+![Gráfico 4](graficos/grafico4_clima_altos.png)
+
+**Figura 1 – Vista aérea da lagoa em operação e medição aerofotogramétrica do volume armazenado na plataforma Propeller (levantamento de 13/07/2026)**
+
+![Figura 1](graficos/figura1_drone_propeller.png)
