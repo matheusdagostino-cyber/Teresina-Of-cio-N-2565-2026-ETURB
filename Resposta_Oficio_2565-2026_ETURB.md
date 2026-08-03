@@ -47,9 +47,11 @@ Reitera-se, contudo, o compromisso — já manifestado no Ofício nº 014/2026 �
 
 Encontra-se em fase final de construção — com conclusão prevista ainda para esta semana — a **segunda lagoa de acumulação (lagoa de emergência), com capacidade de aproximadamente 12.500 m³**, que, somada à lagoa em operação (cerca de 13.600 m³), elevará a capacidade total de armazenamento do empreendimento para **aproximadamente 26.100 m³**.
 
-Conforme demonstrado no estudo técnico encaminhado com o Ofício nº 014/2026, o volume máximo de chorume projetado até maio de 2027, em cenário conservador, é da ordem de **10.694 m³** — inferior, inclusive, à capacidade individual de cada uma das lagoas, e equivalente a cerca de 40% (quarenta por cento) da capacidade total instalada.
+Os dados reais de monitoramento corroboram esse cenário de segurança. As medições topográficas e aerofotogramétricas (drone) da lagoa em operação registraram **redução do volume armazenado de 11.813,72 m³, em 26/05/2026, para 10.384,72 m³, em 13/07/2026** — queda líquida de aproximadamente 1.429 m³ —, não obstante o aporte contínuo de percolado no mesmo intervalo (cerca de 1.100 m³), o que evidencia **evaporação efetiva superior a 2.000 m³ em menos de dois meses**. O nível da lagoa, que atingira a cota máxima de 173,56 m ao final de abril de 2026, encontra-se desde então em trajetória contínua de queda (cota 173,12 m em 13/07/2026).
 
-Soma-se a isso a elevada eficiência do processo de evaporação natural verificada no local: **somente nos últimos 2 (dois) meses (junho e julho de 2026), registrou-se a evaporação de aproximadamente 2.000 m³ de percolado**, em plena consonância com o histórico climatológico da região considerado nas projeções apresentadas.
+No mesmo sentido, o afluente mensal à lagoa (geração de percolado somada à contribuição pluviométrica direta) apresenta acentuada redução: de 2.066 m³ em fevereiro de 2026 — pico do último período chuvoso, com 497 mm de precipitação — para 666 m³ em junho de 2026, o que corresponde a médias diárias de aproximadamente 74 m³/dia e 22 m³/dia, respectivamente. Com a entrada em operação da segunda lagoa, a capacidade livre de armazenamento será de **aproximadamente 15.700 m³ — mais que o dobro de todo o afluente registrado entre janeiro e maio de 2026 (7.284 m³), ainda que se desconsiderasse integralmente o efeito da evaporação**.
+
+Tais dados convergem com o estudo técnico encaminhado com o Ofício nº 014/2026, segundo o qual o volume máximo de chorume projetado até maio de 2027, em cenário conservador, é da ordem de **10.694 m³** — inferior, inclusive, à capacidade individual de cada uma das lagoas, e equivalente a cerca de 40% (quarenta por cento) da capacidade total instalada. A síntese dos dados operacionais de monitoramento integra o **Anexo II**.
 
 Cumpre observar, com o devido respeito e sem embargo das relevantes competências fiscalizatórias dessa Autarquia no plano contratual, que a avaliação acerca da existência de risco ambiental e da suficiência das medidas de gerenciamento de percolado insere-se na esfera de competência do órgão ambiental licenciador (SEMARH/PI), que acompanha regularmente o empreendimento e suas condicionantes e que, até o presente momento, não formulou qualquer apontamento de risco ou objeção às medidas implementadas. No plano contratual, registre-se que a implantação da solução definitiva de tratamento encontra previsão no Projeto Básico vinculado ao Credenciamento, cujas diretrizes e etapas vêm sendo fielmente observadas por esta empresa, conforme cronograma ora apresentado.
 
@@ -81,11 +83,13 @@ Esta empresa manifesta integral concordância e compromisso com o encaminhamento
 
 Ante o exposto, requer-se a essa Autarquia:
 
-a) o **recebimento do cronograma físico revisado (Anexo I)**, com conclusão da implantação em janeiro de 2027 e início de operação em março de 2027, na forma do item I da notificação, com a **reconsideração do marco de outubro de 2026**, ante a demonstração técnica de sua inexequibilidade e da desnecessidade operacional de sua antecipação, sem prejuízo do compromisso de antecipação de etapas sempre que possível;
+a) o **recebimento do cronograma físico revisado (Anexo I)**, com conclusão da implantação em janeiro de 2027 e início de operação em março de 2027, na forma do item I da notificação, com a **reconsideração do marco de outubro de 2026**, ante a demonstração técnica de sua inexequibilidade e a desnecessidade operacional de sua antecipação, evidenciada pelos dados de monitoramento (Anexo II), sem prejuízo do compromisso de antecipação de etapas sempre que possível;
 
 b) o **acolhimento das informações prestadas** quanto às tratativas com a empresa OXICHEMICAL (item II) e quanto ao Projeto Executivo da ETE (item III), o qual será apresentado imediatamente após a sua conclusão, na sequência da expedição da Licença Prévia.
 
 Reafirmando o compromisso desta empresa com a adequada execução contratual, com a segurança ambiental do empreendimento e com a plena transparência perante essa fiscalização, colocamo-nos à inteira disposição para reunião técnica e para vistoria às estruturas mencionadas.
+
+**Anexos:** I – Cronograma físico revisado de implantação da ETE; II – Síntese dos dados operacionais de monitoramento da lagoa de percolado.
 
 Atenciosamente,
 
@@ -114,3 +118,30 @@ Representante Legal – REVITA ENGENHARIA S.A.
 | 11 | Início de operação e comissionamento do processo | mar/2027 | mar/2027 |
 
 *As etapas foram reduzidas para adiantar a implantação, podendo sofrer alterações (atrasos ou antecipações), dependendo das liberações legais e em casos fortuitos ou força maior.*
+
+---
+
+## ANEXO II – Síntese dos dados operacionais de monitoramento da lagoa de percolado
+
+**Tabela 1 – Medições de volume armazenado na lagoa em operação** (levantamentos topográficos e aerofotogramétricos por drone)
+
+| Data da medição | Cota do nível (m) | Volume armazenado (m³) |
+|-----------------|-------------------|------------------------|
+| 26/05/2026 | 173,51 | 11.813,72 |
+| 22/06/2026 | 173,12 | 10.384,72 |
+| 13/07/2026 | 173,12 | 10.384,72 |
+
+Cota máxima registrada no último período chuvoso: 173,56 m, em 30/04/2026 — em trajetória contínua de queda desde então.
+
+**Tabela 2 – Afluente mensal à lagoa em 2026** (geração de percolado + contribuição pluviométrica direta)
+
+| Mês | Precipitação (mm) | Afluente total (m³) |
+|-----|-------------------|---------------------|
+| janeiro/2026 | 215,0 | 1.486,6 |
+| fevereiro/2026 | 497,0 | 2.066,5 |
+| março/2026 | 196,6 | 1.369,4 |
+| abril/2026 | 293,8 | 1.383,9 |
+| maio/2026 | 73,2 | 977,8 |
+| junho/2026 | 26,2 | 666,0 |
+
+Fonte: planilhas de monitoramento operacional da REVITA (acompanhamento diário de geração de chorume e medições topográficas de cota/volume da lagoa), que permanecem à disposição dessa fiscalização.
